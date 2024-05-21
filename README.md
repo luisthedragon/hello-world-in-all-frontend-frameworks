@@ -15,4 +15,5 @@ Of course we are using pnpm and vite where possible to avoid bloating my disk wi
 - [] Preact
 - [] Ember
 - [] Solid
-- [] Lit 
+- [] Lit
+
