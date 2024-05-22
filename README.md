@@ -4,8 +4,8 @@ Trying out all frameworks to explore them and have strong opinions on them with 
 Of course we are using pnpm and vite where possible to avoid bloating my disk with node modules.
 
 - [x] React (pnpm create vite > React)
-- [] Nextjs (pnpm create next-app) 
-- [] Vue
+- [x] Nextjs (pnpm create next-app)
+- [x] Vue
 - [] Nuxt
 - [] Svelte
 - [] Sveltekit
