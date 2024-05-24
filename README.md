@@ -5,8 +5,8 @@ Of course we are using pnpm and vite where possible to avoid bloating my disk wi
 
 - [x] React (pnpm create vite > React)
 - [x] Nextjs (pnpm create next-app)
-- [x] Vue
-- [] Nuxt
+- [x] Vue (pnpm create vite > Vue)
+- [x] Nuxt (pnpm dlx nuxi@latest init)
 - [] Svelte
 - [] Sveltekit
 - [] Qwik
