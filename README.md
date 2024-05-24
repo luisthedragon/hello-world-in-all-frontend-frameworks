@@ -7,13 +7,12 @@ Of course we are using pnpm and vite where possible to avoid bloating my disk wi
 - [x] Nextjs (pnpm create next-app)
 - [x] Vue (pnpm create vite > Vue)
 - [x] Nuxt (pnpm dlx nuxi@latest init)
-- [] Svelte
-- [] Sveltekit
-- [] Qwik
-- [] Qwikcity
-- [] Angular
-- [] Preact
-- [] Ember
-- [] Solid
-- [] Lit
-
+- [ ] Svelte
+- [ ] Sveltekit
+- [ ] Qwik
+- [ ] Qwikcity
+- [ ] Angular
+- [ ] Preact
+- [ ] Ember
+- [ ] Solid
+- [ ] Lit
